@@ -18,7 +18,7 @@ Estou iniciando minha jornada na área de tecnologia. Atualmente estudante de AD
 
 # ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lehbarbosa&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeandroBarbosa-dev&show_icons=true)
 
 ## Onde me encontrar
 <div> 
